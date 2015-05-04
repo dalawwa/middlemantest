@@ -1,0 +1,5 @@
+site:
+  title: codeless
+  i18n: en
+  url: 'https://github.com/flexbox/codeless'
+  author: David Leuliette
